@@ -1,0 +1,12 @@
+__pycache__/ 
+*.pyc 
+venv/ 
+.env 
+.DS_Store 
+*.log 
+*.sqlite3 
+*.csv 
+.ipynb_checkpoints/ 
+*.egg-info/ 
+*.joblib 
+*.pkl 
